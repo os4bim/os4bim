@@ -8,4 +8,4 @@
 
 I'm using for production the scripts I'm sharing here, and they make me really save time. Be advised you have to know the basics of Python and Revit to custom them in your own processes.
 
-Even if Revit in not an open source tool, I have to use it for my work. Maybe one day we will have some open source tool we can use for production but in my opinion it's nor for now. Despite of this there is some nice project like BLender BIM or ifcopenshell we can already use for specific tasks.
+Even if Revit is not an open source tool, I have to use it for my work. Maybe one day we will have some open source tools we can use for production but in my opinion it's nor for now. Despite of this there is some nice project like BLender BIM or ifcopenshell we can already use for specific tasks.
