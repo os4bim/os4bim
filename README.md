@@ -9,9 +9,9 @@
 
 **os4bim** signifie open source pour le BIM.
 
-J'utilise dans mes projets professionnels des scripts dont je partage certatins ici qui me font vraiment gagner du temps. Ceci dit vous devez absolument connaitre les bases du langage Python et de Revit pour les paramètrer selon vos méthodes de travail.
+Je partage ici quelques scripts qui peuvent vous faire gagner du temps dans vos projets professionnels. Ceci dit vous devez absolument connaitre les bases du langage Python et de Revit pour les paramètrer selon vos méthodes de travail.
 
-Même si Revit n'est pas un logiciel open source, je dois l'utiliser pour mon travail. Peut-être qu'un jour nous pourrons utiliser des outils open source dans un cadre professionnel mais je pense que ce n'est pas encore mûre.
+Même si Revit n'est pas un logiciel open source, je dois l'utiliser pour mon travail. Peut-être qu'un jour nous pourrons utiliser des outils open source dans un cadre professionnel mais je pense que ce n'est pas encore mûre notamment pour le MEP.
 Malgré cela il existe des projets prometteurs comme Blender BIM ou ifcopenshell que nous pouvons déjà utiliser pour certaines tâches.
 
 
@@ -21,4 +21,4 @@ Malgré cela il existe des projets prometteurs comme Blender BIM ou ifcopenshell
 
 I'm using for production the scripts I'm sharing here, and they make me really save time. Be advised you have to know the basics of Python and Revit to custom them in your own processes.
 
-Even if Revit is not an open source tool, I have to use it for my work. Maybe one day we will have some open source tools we can use for production but in my opinion it's nor for now. Despite of this there is some nice project like Blender BIM or ifcopenshell we can already use for specific tasks.
+Even if Revit is not an open source tool, I have to use it for my work. Maybe one day we will have some open source tools we can use for production but in my opinion it's nor for now in particular for MEP. Despite of this there is some nice project like Blender BIM or ifcopenshell we can already use for specific tasks.
