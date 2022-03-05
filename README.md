@@ -9,7 +9,7 @@
 
 **os4bim** signifie open source pour le BIM.
 
-J'utilise dans mes projets professionnels les scripts que je partage ici et ils me font vraiment gagner du temps. Ceci dit vous devez absolument connaitres les bases du langage Python et de Revit pour les paramètrer selon vos méthodes de travail.
+J'utilise dans mes projets professionnels des scripts dont je partage certatins ici qui me font vraiment gagner du temps. Ceci dit vous devez absolument connaitre les bases du langage Python et de Revit pour les paramètrer selon vos méthodes de travail.
 
 Même si Revit n'est pas un logiciel open source, je dois l'utiliser pour mon travail. Peut-être qu'un jour nous pourrons utiliser des outils open source dans un cadre professionnel mais je pense que ce n'est pas encore mûre.
 Malgré cela il existe des projets prometteurs comme Blender BIM ou ifcopenshell que nous pouvons déjà utiliser pour certaines tâches.
