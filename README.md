@@ -5,7 +5,7 @@
 - ✉️ You can reach me on [Linkedln](https://www.linkedin.com/in/yoann-obry-1889b611b/)
 
 
-#### FR
+🗣️ FR
 
 **os4bim** signifie open source pour le BIM.
 
@@ -15,7 +15,7 @@ Même si Revit n'est pas un logiciel open source, je dois l'utiliser pour mon tr
 Malgré cela il existe des projets prometteurs comme Blender BIM ou ifcopenshell que nous pouvons déjà utiliser pour certaines tâches.
 
 
-#### EN
+🗣️ EN
 
 **os4bim** means open source for building information model.
 
